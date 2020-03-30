@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Angad Cheema.
+  ~  * Github: @angad305
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 30/3/20 2:39 PM
+  ~  */
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item
+    android:id="@+id/top_rated"
+    android:orderInCategory="1"
+    android:title="Top Rated"
+    app:showAsAction="never"/>
+
+  <item
+    android:id="@+id/popular"
+    android:orderInCategory="2"
+    android:title="Popular"
+    app:showAsAction="never" />
+  <item
+    android:id="@+id/favoritesMenu"
+    android:icon="@android:drawable/btn_star_big_on"
+    android:orderInCategory="3"
+    android:title="Favorites"
+    app:showAsAction="always"/>
+
+
+</menu>

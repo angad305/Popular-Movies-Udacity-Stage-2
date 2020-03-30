@@ -1,0 +1,28 @@
+<!--
+  ~ /**
+  ~  * Created by Angad Cheema.
+  ~  * Github: @angad305
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 30/3/20 2:39 PM
+  ~  */
+  -->
+
+<resources>
+  <string name="app_name">Movies By Angad</string>
+  <string name="title_activity_detailspane">Details</string>
+  <string name="movie_title">MOVIE TITLE</string>
+  <string name="release_date">Release Date</string>
+  <string name="example_date">06 Jul 2019</string>
+  <string name="user_rating">User Rating :</string>
+  <string name="example_rating">8.5</string>
+  <string name="id">ID:</string>
+  <string name="example_id">1232132</string>
+  <string name="sypnosis_example">This is a test synopsis</string>
+  <string name="trailers">TRAILERS</string>
+  <string name="trailer_1">Trailer 1</string>
+  <string name="trailer_2">Trailer 2</string>
+  <string name="reviews">REVIEWS</string>
+  <string name="no_review_available">No Review Available</string>
+  <string name="placeholder">placeholder text</string>
+  <string name="movie">Movie</string>
+</resources>

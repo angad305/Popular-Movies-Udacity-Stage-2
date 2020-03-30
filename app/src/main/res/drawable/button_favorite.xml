@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Angad Cheema.
+  ~  * Github: @angad305
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 30/3/20 2:39 PM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable = "@drawable/ic_favorite"
+    android:state_checked="true"/>
+  <item android:drawable="@drawable/ic_favorite_border"
+    android:state_checked="false"/>
+</selector>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Angad Cheema.
+  ~  * Github: @angad305
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 30/3/20 2:39 PM
+  ~  */
+  -->
+
+<resources>
+  <color name="colorPrimary">#9300ee</color>
+  <color name="colorPrimaryDark">#9300ee</color>
+  <color name="colorAccent">#D81B60</color>
+  <color name="pink_500">#ff416d</color>
+  <color name="home_screen_item">#ffffff</color>
+  <color name="text_color">#000000</color>
+  <color name="trailer_button_background">#ff3485</color>
+  <color name="trailer_color">#FFFFFF</color>
+  <color name="details_background">#fbf6ff</color>
+  <color name="review_text">#339c92</color>
+
+</resources>

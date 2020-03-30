@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Angad Cheema.
+  ~  * Github: @angad305
+  ~  * Copyright (c) 2020 . All rights reserved.
+  ~  * Last modified 30/3/20 2:39 PM
+  ~  */
+  -->
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+  <background android:drawable="@drawable/ic_launcher_background"/>
+  <foreground android:drawable="@drawable/ic_launcher_foreground"/>
+</adaptive-icon>
