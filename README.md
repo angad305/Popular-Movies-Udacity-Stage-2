@@ -1,5 +1,4 @@
-# Popular-Movies-Udacity-Stage-2
-## Popular Movies App Stage 2 - Udacity Android Nanodegree
+# Popular Movies App Stage 2 - Udacity Android Nanodegree
 
 Android application as a part of Udacity's Nanodegree Project. Application displays Top movies and Popular movies from 
 https://www.themoviedb.org/ API.
