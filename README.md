@@ -17,7 +17,15 @@ private static String myAPI = "ENTER YOUR API KEY HERE";
 4. Android Loader
 
 ## Screenshots
-![Main Page](https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%201.png)
-![Movie Details Pane](https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%202.png)
-![Choose between Popular and Most Popular](https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%203.png)
-![Favorites saved on device](https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%204.png)
+<div align="center">
+    <img src="https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%201.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%202.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%203.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="https://github.com/angad305/Popular-Movies-Udacity-Stage-2/blob/master/Screenshots/Google%20Pixel%203%204.png" width="400px"</img> 
+</div>
